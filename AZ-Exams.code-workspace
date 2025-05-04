@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Azure-AZ-900-Study-Guide"
+		},
+		{
+			"path": "../Azure-AZ-500-Study-Guide"
+		}
+	],
+	"settings": {}
+}

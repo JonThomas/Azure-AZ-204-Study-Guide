@@ -11,7 +11,7 @@
 
 ## Implement secure Azure solutions
 1. [Secure app configuration data by using App Configuration or Azure Key Vault](21-Secure-app-configuration-data-by-using-App-Configuration-or-Azure-Key-Vault.md)
-1. [Develop code that uses keys, secrets, and certif]icates stored in Azure Key Vault]
+1. [Develop code that uses keys, secrets, and certificates stored in Azure Key Vault](22-Develop-code-that-uses-keys-secrets-and-certificates-stored-in-Azure-Key-Vault.md)
 1. [Implement Managed Identities for Azure resources]
 
 ⬅️ [Return to Table of Contents](../README.md)

@@ -2,7 +2,7 @@
 
 ## Skills measured
 
-1. [Develop Azure compute solutions (25–30%)]
+1. [Develop Azure compute solutions (25–30%)](1-Develop-Azure-compute-solutions/README.md)
 1. [Develop for Azure storage (15–20%)]
 1. [Implement Azure security (15–20%)](3-Implement-Azure-security/README.md)
 1. [Monitor, troubleshoot, and optimize Azure solutions (5–10%)]
