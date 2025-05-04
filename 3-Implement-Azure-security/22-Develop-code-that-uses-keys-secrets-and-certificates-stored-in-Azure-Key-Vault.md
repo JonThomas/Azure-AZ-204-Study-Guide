@@ -6,7 +6,8 @@ A key vault can either be a "vault", or a "Managed HSM pool". This is decided up
 * Managed Hardware Security Module (HSM) pools: Stores only HMS keys. Requires premium tier, and has an hourly usage fee of €2.813 pr. hour(!) at time of writing.
 * Vaults can contain:
    * Secrets (tokens, passwords, certificates, API keys, and other secrets)
-   * Keys: used to encrypt and protect your data. Both software and HSM keys can be stored. HSM keys requires premium tier. The image below shows the two HSM key types that can be created in a premium SKU key vault. <img src="img/can-store-HSM-keys-in-premium-sku-key-vaults.png" width="300" alt="Premium SKU key vaults can store advanced HSM keys">
+   * Keys: used to encrypt and protect your data. Both software and HSM keys can be stored. HSM keys requires premium tier. The image below shows the two HSM key types that can be created in a premium SKU key vault.
+      <img src="img/can-store-HSM-keys-in-premium-sku-key-vaults.png" width="300" alt="Premium SKU key vaults can store advanced HSM keys">
    * Certificates: provision, manage, and deploy public and private TSL/ SSL certificates
 
 # Authentication and authorization
